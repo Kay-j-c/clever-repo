@@ -1,0 +1,46 @@
+
+
+.background-container {
+    width: 100%; /* Set the desired width */
+    height: 450px; /* Set the desired height */
+    background-image: url('../../assets/back.webp'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+    background-size: cover; /* Cover the entire container with the background image */
+    background-position: center; /* Center the background image */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white; /* Text color */
+    text-align: center;
+    font-size: 24px; /* Adjust font size as needed */
+  }
+  /* Header Container */
+
+
+
+
+/* Heading 
+.hero-content h1 {
+  font-size: 36px;
+  color: #333; /* Example text color 
+}*/
+/* Import Google Fonts */
+
+
+/* Apply styles */
+.hero-content h1 {
+  color: #3F3F3F; /* Text color */
+  font-family: 'Roboto', sans-serif; /* Custom font */
+  font-size: 2.5em;
+  font-weight: bold;
+  text-align: center;
+  margin: 1em 0;
+}
+
+.hero-content p {
+  color: #665;
+  font-family: 'Roboto', sans-serif; /* Custom font */
+  font-size: 1.1em;
+  line-height: 1.5;
+  text-align: justify;
+  margin: 1em 0;
+}
